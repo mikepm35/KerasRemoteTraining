@@ -102,3 +102,17 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# custom
+*.tsv
+*.gz
+.aws
+.config
+.ipython
+.jupyter
+.keras
+.local
+.bash_history
+.python_history
+wine_quality*
+temp_*
